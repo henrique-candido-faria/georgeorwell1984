@@ -24,7 +24,7 @@
 2. **Ministério da Paz**
    - Cuida da guerra perpétua.
 3. **Ministério do Amor**
-   - Encarregado da vigilância, repressão e controle do pensamento**.
+   - Encarregado da vigilância, repressão e controle do pensamento.
 
 4. **Ministério da Fartura**
    - Responsável pela economia, porém administra a escassez de bens.
