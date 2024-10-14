@@ -19,16 +19,16 @@
 
 ---
 ### Ministérios
-1. **Ministério da Verdade (Minitrue)**
+1. **Ministério da Verdade**
    - Responsável pela **propaganda** e pela **falsificação de registros históricos**. Reescreve o passado para que esteja sempre de acordo com a narrativa oficial do Partido. Winston Smith trabalha nesse ministério.
 
-2. **Ministério da Paz (Minipax)**
+2. **Ministério da Paz**
    - Cuida da **guerra perpétua**. Embora o nome sugira o contrário, está envolvido na condução das guerras constantes entre Oceania e as outras superpotências. A guerra serve como uma ferramenta de controle social.
 
-3. **Ministério do Amor (Miniluv)**
+3. **Ministério do Amor**
    - Encarregado da **vigilância, repressão e controle do pensamento**. Lida com a tortura e a disciplina dos cidadãos, garantindo a obediência incondicional ao Partido. É o mais temido dos ministérios.
 
-4. **Ministério da Fartura (Miniplenty)**
+4. **Ministério da Fartura**
    - Responsável pela **economia**, porém administra a **escassez** de bens. O Partido mantém a população sob racionamento constante, criando a impressão de que a escassez é inevitável e necessária.
 
 ---
