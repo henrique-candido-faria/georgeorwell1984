@@ -20,14 +20,14 @@
 ---
 ### Ministérios
 1. **Ministério da Verdade**
-   - Responsável pela **propaganda** e pela **falsificação de registros históricos**.
+   - Responsável pela propaganda e pela falsificação de registros históricos.
 2. **Ministério da Paz**
-   - Cuida da **guerra perpétua**.
+   - Cuida da guerra perpétua.
 3. **Ministério do Amor**
-   - Encarregado da **vigilância, repressão e controle do pensamento**.
+   - Encarregado da vigilância, repressão e controle do pensamento**.
 
 4. **Ministério da Fartura**
-   - Responsável pela **economia**, porém administra a **escassez** de bens.
+   - Responsável pela economia, porém administra a escassez de bens.
 
 ---
 
