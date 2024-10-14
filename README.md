@@ -36,7 +36,7 @@
 | **Personagem**               | **Descrição**                                                                                                                                              |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Winston Smith**             ||
-| **Grande Irmão**||
+| **Grande Irmão**              ||
 | **Sra. Parsons**              ||
 | **Crianças Parsons**          ||
 | **O'Brien**                   ||
@@ -45,7 +45,22 @@
 ---
 
 ## **Palavras**
-- 
+- Socing
+- Novafala
+- duplipensamento
+- mutabilidade
+- guisa
+- comichar
+- compenetrado
+- Oceânia
+- Eurásia
+- Lestásia
+- Labiríntico
+
+---
+
+## **Não entendi**
+### 3º Capítulo ao falar sobre "Oceânia, Eurásia e Lestásia."
 
 ---
 
