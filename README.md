@@ -18,23 +18,36 @@
 ### **Capítulo 3**
 
 ---
+### Ministérios
+1. **Ministério da Verdade (Minitrue)**
+   - Responsável pela **propaganda** e pela **falsificação de registros históricos**. Reescreve o passado para que esteja sempre de acordo com a narrativa oficial do Partido. Winston Smith trabalha nesse ministério.
+
+2. **Ministério da Paz (Minipax)**
+   - Cuida da **guerra perpétua**. Embora o nome sugira o contrário, está envolvido na condução das guerras constantes entre Oceania e as outras superpotências. A guerra serve como uma ferramenta de controle social.
+
+3. **Ministério do Amor (Miniluv)**
+   - Encarregado da **vigilância, repressão e controle do pensamento**. Lida com a tortura e a disciplina dos cidadãos, garantindo a obediência incondicional ao Partido. É o mais temido dos ministérios.
+
+4. **Ministério da Fartura (Miniplenty)**
+   - Responsável pela **economia**, porém administra a **escassez** de bens. O Partido mantém a população sob racionamento constante, criando a impressão de que a escassez é inevitável e necessária.
+
+---
 
 ## **Personagens**
 
 | **Personagem**               | **Descrição**                                                                                                                                              |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Winston Smith**             | Protagonista. Um homem de 39 anos que vive sob o regime totalitário do Partido. Trabalha no Ministério da Verdade e está insatisfeito com o controle do Partido. |
-| **Grande Irmão (Big Brother)**| Figura onipresente e líder simbólico do Partido. Representa a vigilância total e o poder absoluto.                                                          |
-| **Sra. Parsons**              | Vizinha de Winston. Uma mulher desgastada que vive sob o medo do Partido. Seus filhos a aterrorizam.                                                        |
-| **Crianças Parsons**          | Filhos da Sra. Parsons. Doutrinados pelo Partido, acusam Winston de ser um criminoso do pensamento. Ansiosos pela Semana do Ódio.                             |
-| **O'Brien**                   | Membro do Partido Interno. Winston acredita que O'Brien compartilha seu descontentamento com o regime, mas ele ainda não se manifestou.                     |
-| **Emmanuel Goldstein**        | Inimigo público número um do Partido. Figura central da propaganda, usado para canalizar o ódio popular durante a Semana do Ódio.                           |
+| **Winston Smith**             ||
+| **Grande Irmão**||
+| **Sra. Parsons**              ||
+| **Crianças Parsons**          ||
+| **O'Brien**                   ||
+| **Emmanuel Goldstein**        ||
 
 ---
 
 ## **Palavras**
-
-_(Espaço reservado para anotações de palavras e expressões)_
+- 
 
 ---
 
