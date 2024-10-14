@@ -51,7 +51,7 @@
 
 ## **Partes que me interessam**
 
-> **Página 34**  
+1. **Página 34**  
 > *"Guerra é Paz  
 > Liberdade é Escravidão  
 > Ignorância é Força"*  
@@ -59,14 +59,18 @@
 
 ---
 
-> **Página 62**  
+2. **Página 62**  
 > *"Nas moedas, nos selos, nas capas dos livros, em bandeiras, em cartazes e nas embalagens dos maços de cigarro - em toda parte. Sempre aqueles olhos observando a pessoa e a voz a envolvê-la. Dormindo ou acordada, trabalhando ou comendo, dentro ou fora de casa, no banho ou na cama - não havia saída. Com exceção dos poucos centímetros que cada um possuía dentro do crânio, ninguém tinha nada de seu."*  
 > Este trecho me fez pensar sobre o controle que vivemos e que a única coisa que não pode ser controlada são os nossos pensamentos, o direito de pensar. (Me lembrou o livro "O homem em busca de sentido", Viktor E. Frankl)
 
-> **Página 64**  
+---
+
+3. **Página 64**  
 > *"Agora que se via um homem morto, tornava-se importante continuar vivo o maior tempo possível."*  
 > Memento Mori - Lembrança da Morte
 
-> **Página 73**  
+---
+
+4. **Página 73**  
 > *"Quem controla o passado controla o futuro; quem controla o presente controla o passado"*  
 > Me fez lembrar de Avatar a Lenda de Aang, quando a nação do fogo adota a mesma estratégia para fazer com que as pessoas esqueçam como a cidade foi tomado por eles mesmos.
